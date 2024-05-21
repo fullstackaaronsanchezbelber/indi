@@ -1,0 +1,259 @@
+[2024-05-17 10:56:56,995:INFO:main:Welcome to my custom logs]
+[2024-05-18 15:57:30,760:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-18 15:57:30,777:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-18 15:57:30,783:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-18 15:57:30,788:INFO:common:Directorio creado en: artifacts]
+[2024-05-18 16:00:49,972:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-18 16:00:49,974:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-18 16:00:49,978:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-18 16:00:49,981:INFO:common:Directorio creado en: artifacts]
+[2024-05-18 16:00:49,982:INFO:common:Directorio creado en: artifacts/data_ingestion]
+[2024-05-18 16:00:50,786:INFO:3949664249:artifacts/data_ingestion/data.zip descargado con la siguiente información: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4B12:7BC9:4A67DE:4FA4F3:6648B492
+Accept-Ranges: bytes
+Date: Sat, 18 May 2024 14:00:50 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22041-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1716040850.492978,VS0,VE179
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a1c0669e2fe37293f150a4fe9786699b8f6065a8
+Expires: Sat, 18 May 2024 14:05:50 GMT
+Source-Age: 0
+
+]
+[2024-05-18 16:00:50,818:INFO:3949664249:Archivo zip extraído en: artifacts/data_ingestion]
+[2024-05-21 13:04:03,405:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-21 13:04:03,414:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 13:04:03,417:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 13:04:03,419:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 13:04:03,420:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 13:04:03,420:INFO:common:Directorio creado en: artifacts/data_ingestion]
+[2024-05-21 13:04:04,207:INFO:data_ingestion:artifacts/data_ingestion/data.zip descargado con la siguiente información: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5AB2:0DFC:31E5216:34BDBF0:664C7FA1
+Accept-Ranges: bytes
+Date: Tue, 21 May 2024 11:04:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad2200092-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1716289442.495802,VS0,VE180
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9cb0c0d712d38c0acf0925d77b9f64222f4a9fb5
+Expires: Tue, 21 May 2024 11:09:02 GMT
+Source-Age: 0
+
+]
+[2024-05-21 13:04:04,219:INFO:data_ingestion:Archivo zip extraído en: artifacts/data_ingestion]
+[2024-05-21 13:04:04,220:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-21 16:49:11,012:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 16:49:11,024:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 16:49:11,035:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 16:49:11,037:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 16:49:11,040:INFO:common:Directorio creado en: artifacts/data_validation]
+[2024-05-21 17:00:07,031:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-21 17:00:07,035:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 17:00:07,037:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 17:00:07,041:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 17:00:07,043:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 17:00:07,045:INFO:common:Directorio creado en: artifacts/data_ingestion]
+[2024-05-21 17:00:07,775:INFO:data_ingestion:artifacts/data_ingestion/data.zip descargado con la siguiente información: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C370:366126:3887AB:3AADAE:664CB6F7
+Accept-Ranges: bytes
+Date: Tue, 21 May 2024 15:00:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad22069-MAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1716303608.604372,VS0,VE198
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5c1af9c0bb8bcb696bf980b203e8de13cdf59030
+Expires: Tue, 21 May 2024 15:05:07 GMT
+Source-Age: 0
+
+]
+[2024-05-21 17:00:07,793:INFO:data_ingestion:Archivo zip extraído en: artifacts/data_ingestion]
+[2024-05-21 17:00:07,794:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-21 17:00:07,794:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-21 17:00:07,797:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 17:00:07,798:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 17:00:07,802:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 17:00:07,804:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 17:00:07,805:INFO:common:Directorio creado en: artifacts/data_validation]
+[2024-05-21 17:00:07,835:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-21 17:24:23,489:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-21 17:24:23,491:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 17:24:23,492:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 17:24:23,494:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 17:24:23,496:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 17:24:23,507:INFO:common:Directorio creado en: artifacts/data_ingestion]
+[2024-05-21 17:24:24,099:INFO:data_ingestion:artifacts/data_ingestion/data.zip descargado con la siguiente información: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C370:366126:3887AB:3AADAE:664CB6F7
+Accept-Ranges: bytes
+Date: Tue, 21 May 2024 15:24:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad2200135-MAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1716305064.986602,VS0,VE155
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 83c70721afbaa6a07b161d70399f67e0195b8de7
+Expires: Tue, 21 May 2024 15:29:24 GMT
+Source-Age: 0
+
+]
+[2024-05-21 17:24:24,115:INFO:data_ingestion:Archivo zip extraído en: artifacts/data_ingestion]
+[2024-05-21 17:24:24,116:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-21 17:24:24,116:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-21 17:24:24,120:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 17:24:24,122:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 17:24:24,125:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 17:24:24,127:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 17:24:24,128:INFO:common:Directorio creado en: artifacts/data_validation]
+[2024-05-21 17:24:24,157:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-21 17:24:24,160:INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-21 17:24:24,166:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 17:24:24,168:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 17:24:24,172:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 17:24:24,173:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 17:24:24,175:INFO:common:Directorio creado en: artifacts/data_transformation]
+[2024-05-21 17:24:24,223:INFO:data_transformation:Splited data into training and test sets]
+[2024-05-21 17:24:24,223:INFO:data_transformation:(1199, 12)]
+[2024-05-21 17:24:24,224:INFO:data_transformation:(400, 12)]
+[2024-05-21 17:24:24,225:INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-21 18:04:51,528:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 18:04:51,531:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 18:04:51,536:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 18:04:51,539:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 18:05:09,637:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 18:05:09,639:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 18:05:09,643:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 18:05:09,646:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 18:28:29,541:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-21 18:28:29,546:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 18:28:29,548:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 18:28:29,551:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 18:28:29,553:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 18:28:29,554:INFO:common:Directorio creado en: artifacts/data_ingestion]
+[2024-05-21 18:28:30,410:INFO:data_ingestion:artifacts/data_ingestion/data.zip descargado con la siguiente información: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C370:366126:3887AB:3AADAE:664CB6F7
+Accept-Ranges: bytes
+Date: Tue, 21 May 2024 16:28:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mad2200127-MAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1716308910.288332,VS0,VE168
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 92af929a7ff0a83756df6ab9a2aa50e370494183
+Expires: Tue, 21 May 2024 16:33:30 GMT
+Source-Age: 0
+
+]
+[2024-05-21 18:28:30,425:INFO:data_ingestion:Archivo zip extraído en: artifacts/data_ingestion]
+[2024-05-21 18:28:30,425:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-21 18:28:30,426:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-21 18:28:30,432:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 18:28:30,434:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 18:28:30,438:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 18:28:30,440:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 18:28:30,442:INFO:common:Directorio creado en: artifacts/data_validation]
+[2024-05-21 18:28:30,507:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-05-21 18:28:30,509:INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-05-21 18:28:30,548:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 18:28:30,550:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 18:28:30,554:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 18:28:30,555:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 18:28:30,558:INFO:common:Directorio creado en: artifacts/data_transformation]
+[2024-05-21 18:28:30,607:INFO:data_transformation:Splited data into training and test sets]
+[2024-05-21 18:28:30,608:INFO:data_transformation:(1199, 12)]
+[2024-05-21 18:28:30,609:INFO:data_transformation:(400, 12)]
+[2024-05-21 18:28:30,615:INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-05-21 18:28:30,617:INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-05-21 18:28:30,620:INFO:common:Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-21 18:28:30,621:INFO:common:Archivo YAML: params.yaml cargado con éxito]
+[2024-05-21 18:28:30,624:INFO:common:Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-21 18:28:30,626:INFO:common:Directorio creado en: artifacts]
+[2024-05-21 18:28:30,628:INFO:common:Directorio creado en: artifacts/model_trainer]
+[2024-05-21 18:28:30,675:INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
